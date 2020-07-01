@@ -15,8 +15,8 @@
 - в процессе выполнения тестового задания при держиваться стандарта PSR-0
 
 ### Вспомогательный материал:
-- https://laravel.com/docs/5.2/quickstart-intermediate
-- PSR-0 https://www.php-fig.org/psr/psr-1/
+- Laravel 5.2 to-do list - https://laravel.com/docs/5.2/quickstart-intermediate
+- PSR-0 - https://www.php-fig.org/psr/psr-1/
 
 ### Обратить внимание:
 - Вспомогательный материал используется только в качестве примера, он не удовлетворяет требованиям к выполнению задания
